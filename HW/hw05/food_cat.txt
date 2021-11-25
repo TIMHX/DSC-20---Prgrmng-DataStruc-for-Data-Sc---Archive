@@ -1,0 +1,18 @@
+Tasty burger: Burger
+Veggie burger: Burger
+Empty burger: Burger
+Green Salad: Salad
+Cobb Salad: Salad
+Cookie round: Dessert
+Cookie monster: Dessert
+Best burger: Burger
+Big burger: Burger
+Smiley burger: Burger
+Spinach Salad: Salad
+Russian Salad: Salad
+Ice-cream vanilla: Dessert
+Ice-cream chocolate: Dessert
+Birthday cake: Dessert
+Boomer: Burger
+Bluberry muffin: Dessert
+Monster sandwich: Burger

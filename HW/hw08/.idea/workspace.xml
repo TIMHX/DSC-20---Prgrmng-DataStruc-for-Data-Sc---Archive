@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61f49997-944f-40d7-a43b-d3c4d26f660d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/hw08.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1YQC9fV7gYaOvSl4tMS6JL3ucuI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest street_fighter_champ">
+    <configuration name="Doctest make_reviews_list" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="hw08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw08.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="make_reviews_list" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest street_fighter_champ" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="hw08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw08.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="street_fighter_champ" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Counter" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="hw08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw08.py" />
+      <option name="CLASS_NAME" value="Counter" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Library" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="hw08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hw08.py" />
+      <option name="CLASS_NAME" value="Library" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest street_fighter_champ" />
+        <item itemvalue="Python tests.Doctest make_reviews_list" />
+        <item itemvalue="Python tests.Doctests in Counter" />
+        <item itemvalue="Python tests.Doctests in Library" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61f49997-944f-40d7-a43b-d3c4d26f660d" name="Default Changelist" comment="" />
+      <created>1582865280701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582865280701</updated>
+      <workItem from="1582865290218" duration="48000" />
+      <workItem from="1582873034030" duration="4103000" />
+      <workItem from="1583020440825" duration="3608000" />
+      <workItem from="1583044503836" duration="647000" />
+      <workItem from="1583103382874" duration="518000" />
+      <workItem from="1583135088789" duration="2264000" />
+      <workItem from="1583199206058" duration="5323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="609" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582876777975">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="609" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.956@0.23.1680.956" timestamp="1582876777975" />
+    <state width="877" height="297" key="GridCell.Tab.0.bottom" timestamp="1583211636633">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583211636633" />
+    <state width="877" height="297" key="GridCell.Tab.0.center" timestamp="1583211636633">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1583211636633" />
+    <state width="877" height="297" key="GridCell.Tab.0.left" timestamp="1583211636632">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1583211636632" />
+    <state width="877" height="297" key="GridCell.Tab.0.right" timestamp="1583211636633">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1583211636633" />
+    <state width="877" height="297" key="GridCell.Tab.1.bottom" timestamp="1583211636635">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1583211636635" />
+    <state width="877" height="297" key="GridCell.Tab.1.center" timestamp="1583211636634">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1583211636634" />
+    <state width="877" height="297" key="GridCell.Tab.1.left" timestamp="1583211636634">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1583211636634" />
+    <state width="877" height="297" key="GridCell.Tab.1.right" timestamp="1583211636635">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="877" height="297" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1583211636635" />
+    <state x="698" y="139" key="SettingsEditor" timestamp="1582873593075">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="698" y="139" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1582873593075" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1583020456349">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1680.956@0.23.1680.956" timestamp="1583020456349" />
+    <state x="690" y="313" key="com.intellij.ide.util.TipDialog" timestamp="1583199211520">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="690" y="313" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1583199211520" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw08$Doctest_make_reviews_list.coverage" NAME="Doctest make_reviews_list Coverage Results" MODIFIED="1583209493722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw08$Doctest_street_fighter_champ.coverage" NAME="Doctest street_fighter_champ Coverage Results" MODIFIED="1583209654756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw08$Doctests_in_Library.coverage" NAME="Doctests in Library Coverage Results" MODIFIED="1583039273378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hw08$Doctests_in_Counter.coverage" NAME="Doctests in Counter Coverage Results" MODIFIED="1583135248569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

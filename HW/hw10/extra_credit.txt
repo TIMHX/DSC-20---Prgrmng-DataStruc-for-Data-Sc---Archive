@@ -1,0 +1,5 @@
+Explain your solution.
+
+What is the best case runtime?
+
+What is the worst case runtime?

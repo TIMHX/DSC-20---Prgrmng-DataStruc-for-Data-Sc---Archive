@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd57cbb8-96b9-4e6c-9bb8-e59bb3cfddad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/abstractions.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Ys5kfFc5ylxkQOwDskXpdMAjYY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest find_closest">
+    <configuration name="Doctest enumerate" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="enumerate" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest find_closest" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recommend.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="find_closest" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest key_of_min_value" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="key_of_min_value" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest mean" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="mean" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest zip" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="maps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="zip" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest find_closest" />
+        <item itemvalue="Python tests.Doctest mean" />
+        <item itemvalue="Python tests.Doctest key_of_min_value" />
+        <item itemvalue="Python tests.Doctest enumerate" />
+        <item itemvalue="Python tests.Doctest zip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd57cbb8-96b9-4e6c-9bb8-e59bb3cfddad" name="Default Changelist" comment="" />
+      <created>1583718605508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583718605508</updated>
+      <workItem from="1583718608849" duration="13783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="967" y="142" key="#Doctest_key_of_min_value" timestamp="1583721194850">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="967" y="142" key="#Doctest_key_of_min_value/0.23.1680.1027@0.23.1680.1027" timestamp="1583721194850" />
+    <state x="967" y="142" key="#Doctest_map_and_filter" timestamp="1583720195228">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="967" y="142" key="#Doctest_map_and_filter/0.23.1680.1027@0.23.1680.1027" timestamp="1583720195228" />
+    <state x="967" y="142" key="#Doctest_map_and_filter_(1)" timestamp="1583720263252">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="967" y="142" key="#Doctest_map_and_filter_(1)/0.23.1680.1027@0.23.1680.1027" timestamp="1583720263252" />
+    <state x="967" y="142" key="#Doctest_map_and_filter_(2)" timestamp="1583720333699">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="967" y="142" key="#Doctest_map_and_filter_(2)/0.23.1680.1027@0.23.1680.1027" timestamp="1583720333699" />
+    <state width="790" height="325" key="GridCell.Tab.0.bottom" timestamp="1583742471928">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471928" />
+    <state width="790" height="325" key="GridCell.Tab.0.center" timestamp="1583742471928">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471928" />
+    <state width="790" height="325" key="GridCell.Tab.0.left" timestamp="1583742471927">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471927" />
+    <state width="790" height="325" key="GridCell.Tab.0.right" timestamp="1583742471928">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471928" />
+    <state width="790" height="325" key="GridCell.Tab.1.bottom" timestamp="1583742471929">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471929" />
+    <state width="790" height="325" key="GridCell.Tab.1.center" timestamp="1583742471929">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471929" />
+    <state width="790" height="325" key="GridCell.Tab.1.left" timestamp="1583742471928">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471928" />
+    <state width="790" height="325" key="GridCell.Tab.1.right" timestamp="1583742471929">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="790" height="325" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1583742471929" />
+    <state x="851" y="279" key="IDE.errors.dialog" timestamp="1583732760386">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="851" y="279" key="IDE.errors.dialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583732760386" />
+    <state x="698" y="176" key="SettingsEditor" timestamp="1583721227835">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="698" y="176" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1583721227835" />
+    <state x="927" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1583718613253">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="927" y="334" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583718613253" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maps$Doctest_zip.coverage" NAME="Doctest zip Coverage Results" MODIFIED="1583729618735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_find_closest.coverage" NAME="Doctest find_closest Coverage Results" MODIFIED="1583739498886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_key_of_min_value.coverage" NAME="Doctest key_of_min_value Coverage Results" MODIFIED="1583730402005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_map_and_filter__1_.coverage" NAME="Doctest map_and_filter (1) Coverage Results" MODIFIED="1583720266252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_map_and_filter__2_.coverage" NAME="Doctest map_and_filter (2) Coverage Results" MODIFIED="1583721171995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_enumerate.coverage" NAME="Doctest enumerate Coverage Results" MODIFIED="1583729857306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/maps$Doctest_mean.coverage" NAME="Doctest mean Coverage Results" MODIFIED="1583730719557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

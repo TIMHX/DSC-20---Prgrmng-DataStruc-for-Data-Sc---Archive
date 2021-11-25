@@ -1,0 +1,8 @@
+Tasty burger: 300
+Veggie burger: 276
+Empty burger: 200
+Monster sandwich: 550
+Green Salad: 150
+Cobb Salad: 170
+Cookie round: 300
+Cookie monster: 375

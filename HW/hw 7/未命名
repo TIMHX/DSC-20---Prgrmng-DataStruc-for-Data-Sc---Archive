@@ -1,0 +1,42 @@
+four = 4
+def populate_menu_schedule(menu_schedule, recipe_dict):
+    # remove that not in recipe
+    for day in menu_schedule:
+        for name in list(day):
+            if name not in recipe_dict.keys():
+                del day[name]
+            else:
+                new_dict = list(recipe_dict.items())
+                for i in new_dict:
+                    if i[0] == name:
+                        recipe = i[1]
+                day[name] = recipe
+    
+    # rewrite mon&fri
+    menu_schedule[four].clear()
+    menu_schedule[four].update(menu_schedule[0])
+    
+menu_schedule = ( \
+        {"Orange Chicken": [], "Broccoli Beef": []}, \
+        {"Broccoli Beef": []}, \
+        {"Orange Chicken": [], "Spring Roll": []}, \
+        {"Fortune Cookie": []}, \
+        {"Fortune Cookie": [], "Broccoli Beef": []} \
+    )
+recipe_dict = { \
+        "Orange Chicken": ["Orange", "Chicken"], \
+        "Fortune Cookie": ["Fortune", "Cookie", "Paper"], \
+        "Spring Roll": ["Egg"] \
+    }
+list(recipe_dict.items())
+
+populate_menu_schedule(menu_schedule, recipe_dict)
+menu_schedule
+
+menu_schedule[0]['Orange Chicken'].append("Hot Sauce")
+
+menu_schedule
+
+menu_schedule[0]['Gyro Plate'] = ['Beef']
+ 
+menu_schedule

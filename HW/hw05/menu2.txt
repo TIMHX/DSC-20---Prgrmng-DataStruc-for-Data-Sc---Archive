@@ -1,0 +1,9 @@
+Best burger: 278
+Big burger: 809
+Smiley burger: 670
+Spinach Salad: 120
+Russian Salad: 220
+Ice-cream vanilla: 350
+Ice-cream chocolate: 290
+Birthday cake: 400
+
